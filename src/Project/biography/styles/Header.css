@@ -1,0 +1,59 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+li {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  list-style: none;
+}
+h2 {
+  display: none;
+}
+.headerBody {
+  display: flex;
+  justify-content: space-between;
+  background-image: url("Headimg.jpg");
+  color: white;
+  height: auto;
+}
+.headerName {
+  display: flex;
+  margin: 16px;
+}
+.myLogo {
+  height: 40px;
+  width: 65px;
+}
+.myName {
+  margin: auto 10px;
+}
+.myName li {
+  font-size: 24px;
+}
+.myList {
+  display: flex;
+  margin: auto;
+}
+.myList li {
+  color: darkgrey;
+  padding: 8px;
+}
+
+/* Below is the styling of the header's responsiveness */
+
+@media screen and (max-width: 584px) {
+  /* at max width of 584px, i displayed the header name and header lists none
+  to accomodate space and replaced it with the logo and menu */
+
+  .myName {
+    display: none;
+  }
+  .myList {
+    display: none;
+  }
+  h2 {
+    display: block;
+    margin: auto;
+  }
+}

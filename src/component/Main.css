@@ -1,0 +1,29 @@
+.front {
+  display: flex;
+  justify-content: space-between;
+  background-image: url("Headimg.jpg");
+  color: antiquewhite;
+}
+.tell {
+  display: flex;
+  justify-content: space-between;
+  background-image: url("Headimg.jpg");
+  color: antiquewhite;
+}
+.close {
+  display: none;
+  list-style: none;
+}
+.close li {
+  padding: 10px;
+}
+.flit {
+  list-style: none;
+}
+.menuFav {
+  height: 20px;
+  margin: 25px;
+}
+body {
+  background: #555;
+}

@@ -1,0 +1,29 @@
+.groupie {
+  display: inline-grid;
+  grid-template-columns: repeat(3, 1fr);
+  margin: auto;
+  padding: 10px;
+  font-family: sans-serif;
+  line-height: 25px;
+}
+.groupie h1 {
+  font-size: 28px;
+  margin: 10px 0;
+}
+
+.fourth {
+  border: 1px solid black;
+  padding: 10px;
+}
+.third {
+  border: 1px solid black;
+  padding: 10px;
+}
+.inner {
+  border: 5px solid whitesmoke;
+  padding: 10px;
+}
+.tech {
+  border: 1px solid black;
+  padding: 10px;
+}

@@ -1,0 +1,63 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+.footerBody {
+  background-image: url("./Headimg.jpg");
+  height: 50vh;
+  padding: 25px;
+  line-height: 40px;
+  color: white;
+}
+.footerBody li {
+  list-style: none;
+}
+.footerList {
+  display: flex;
+  justify-content: space-around;
+}
+.footerPar {
+  text-align: center;
+}
+.fire {
+  display: flex;
+}
+.fa {
+  height: 40px;
+  width: 40px;
+}
+.ba {
+  height: 40px;
+  width: 40px;
+}
+.ca {
+  height: 40px;
+  width: 40px;
+}
+.da {
+  height: 40px;
+  width: 40px;
+}
+.ea {
+  height: 40px;
+  width: 40px;
+}
+/* Below is the styling of the responsiveness at 
+
+different screen sizes */
+
+@media screen and (max-width: 584px) {
+  .footerList li {
+    font: 14px sans-serif;
+    padding: 10px;
+  }
+  .footerRule {
+    margin-bottom: 35px;
+  }
+  .footerPar {
+    font: 10px sans-serif;
+  }
+  .fire a {
+    display: table-column-group;
+  }
+}
