@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/portfolio-Ajebo/precache-manifest.b04d456fd278d8bd30c2c44bf2efcd54.js"
+  "/portfolio-Ajebo/precache-manifest.bbb74f7526780b617bfd2ff14b74d256.js"
 );
 
 self.addEventListener('message', (event) => {
