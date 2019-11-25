@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4e9b57893b8df496411ee0874a1065f4",
+    "revision": "df1e3731318831e44fb4ea8212913fdb",
     "url": "/portfolio-Ajebo/index.html"
   },
   {
-    "revision": "3824d84983dac3c5357e",
-    "url": "/portfolio-Ajebo/static/css/main.577c8746.chunk.css"
+    "revision": "c94a24b91f09acc099f6",
+    "url": "/portfolio-Ajebo/static/css/main.d242a7ff.chunk.css"
   },
   {
-    "revision": "126cbcb3ed853a7f3ccf",
-    "url": "/portfolio-Ajebo/static/js/2.6c394278.chunk.js"
+    "revision": "5d3365ca84cb8410e9b0",
+    "url": "/portfolio-Ajebo/static/js/2.f3bd1244.chunk.js"
   },
   {
-    "revision": "3824d84983dac3c5357e",
-    "url": "/portfolio-Ajebo/static/js/main.e3d14d16.chunk.js"
+    "revision": "c94a24b91f09acc099f6",
+    "url": "/portfolio-Ajebo/static/js/main.49b18237.chunk.js"
   },
   {
     "revision": "0fe04556ee9b42ed8a37",
@@ -104,16 +104,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio-Ajebo/static/media/script.50d2752d.jpg"
   },
   {
+    "revision": "483492ca48691ec79f450ad783d0046c",
+    "url": "/portfolio-Ajebo/static/media/wor.483492ca.jpg"
+  },
+  {
     "revision": "cc8dc93e9edc7bd287e29854c8223155",
     "url": "/portfolio-Ajebo/static/media/work.cc8dc93e.jpg"
   },
   {
     "revision": "ae85ff4f86aa2af1d4d8e284d65b3181",
     "url": "/portfolio-Ajebo/static/media/work2.ae85ff4f.jpg"
-  },
-  {
-    "revision": "f417d5f98aaffed6d7fcd6899f89d4a6",
-    "url": "/portfolio-Ajebo/static/media/work3.f417d5f9.jpg"
   },
   {
     "revision": "54ff071178954652e4721e3b99b75159",
